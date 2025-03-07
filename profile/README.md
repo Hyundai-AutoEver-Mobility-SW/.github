@@ -21,7 +21,7 @@
    - **설명:** React 상태 관리 및 피그마 디자인 실습을 위한 프로젝트입니다.
 
 5. [**SSD TestShell**](https://github.com/Hyundai-AutoEver-Mobility-SW/SSD-TestShell)  
-   - **기술 스택:** C++, MVC 패턴, Singleton 패턴  
+   - **기술 스택:** Java, MVC 패턴, Singleton 패턴  
    - **설명:** 가상 SSD(Solid State Drive)를 소프트웨어적으로 구현하여 SSD의 Read 및 Write 명령어를 처리하고, 결과를 파일로 관리하는 프로그램입니다.
 
 6. [**뽀모도로 타이머 앱**](https://github.com/Hyundai-AutoEver-Mobility-SW/pomodoro-app-team9)  
